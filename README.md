@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JonahZa
+- 👀 I’m interested in cybersecurity, coding, and robotics.
+- 🌱 I’m currently learning HTML, CSS, JS, and Python.
+- 💞️ I’m looking to collaborate on ... contact me?
+- 📫 How to reach me ... (will add later)
