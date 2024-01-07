@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JonahZa
+- 👋 Hi, I’m <a href="https://github.com/JonahZa" target="_blank">@JonahZa</a>
 - 👀 I’m interested in cybersecurity, coding, and robotics.
 - 🌱 I’m currently learning HTML, CSS, JS, and Python.
 - 💞️ I’m looking to collaborate on ... contact me?
