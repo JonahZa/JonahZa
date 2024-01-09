@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from the United States</h3>
 
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&lines=Cybersecurity;Information+Security;Programming;Technology;Robotics" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Cybersecurity;Information+Security;Programming;Technology;Robotics" alt="Typing SVG" /></a>
 </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and Python**
