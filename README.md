@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **cybersecurity or general tech**
 
-- 📫 How to reach me **jonahz.github@gmail.com**
+- 📫 How to reach me **jonahz.github@gmail.com** or on [Discord](https://discord.com/users/849443852729581598)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
@@ -19,8 +19,6 @@
    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
-<p align="left">
-</p>
 
 <h3 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h3>
 
@@ -32,4 +30,3 @@
 <div align="center">
       <img src="https://skillicons.dev/icons?i=vscode,vim,github,discord,linux,raspberrypi,netlify,stackoverflow,cloudflare,wordpress&theme="dark" />
 </div>
-
