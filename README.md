@@ -2,10 +2,10 @@
 <h3 align="center">A passionate developer from the United States</h3>
 
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=092FF7&center=true&random=false&width=435&lines=Cybersecurity;Information+Security;Programming;Technology;Robotics" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&pause=1000&color=062DF7&center=true&random=false&width=435&lines=Cybersecurity;Information+Security;Computer+Science;Technology;Robotics" alt="Typing SVG" /></a>
 </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Python**
+- 🌱 I’m currently learning **Python, HTML, CSS, and JavaScript**
 
 - 👨‍💻 All of my projects are available at [JonahZa.github.io](JonahZa.github.io)
 
@@ -25,7 +25,7 @@
 <br />
 
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,bash,md&theme=dark" /> <br/>
+      <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,bash,md&theme=dark" /> <br/>
 </div>
 <div align="center">
       <img src="https://skillicons.dev/icons?i=vscode,vim,github,discord,linux,raspberrypi,netlify,stackoverflow,cloudflare,wordpress&theme="dark" />
