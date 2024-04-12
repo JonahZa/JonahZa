@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
-- 👨‍💻 All of my projects are available at [JonahZa.github.io](JonahZa.github.io)
 
 - 💬 Ask me about **cybersecurity or general tech**
 
