@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonah</h1>
-<h3 align="center">A passionate developer from the United States</h3>
+<h3 align="center">A student and developer from the United States</h3>
 
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&pause=1000&color=062DF7&center=true&random=false&width=435&lines=Cybersecurity;Information+Security;Computer+Science;Technology;Robotics" alt="Typing SVG" /></a>
